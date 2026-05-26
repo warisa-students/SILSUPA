@@ -7,7 +7,7 @@ Topic: Predictive Model of Microhardness in Laser Cladding Process Followed with
 
 # Input Data 
 - Deep rolling (DR) Parameter : DR Pressure, Rolling offset, Feed rate
-- Microhardness Indentation Depth (10 point/rail)
+- Microhardness Indentation Depth (50,100,150,200,250)
 - surface roughness (SA) : 
   area 10 x 40 mm
 - **** Image Microstructure (Pores, Dendritic Density) differenct zoom level e.g. 300x, 700x, 1000x
