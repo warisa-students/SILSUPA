@@ -20,3 +20,11 @@ Microhardness
 # ML Technique
 - Deeptab: Tabular Deep Learning Made Simple
 ** ต้องทำรูปให้เป็น Column ก่อน **
+
+
+
+1) Porosity https://share.google/aimode/zgBT1ESvgYIMvp5tT
+Python ที Library หลายตัวที่ทำได้ น่าลอง PoreSpy
+
+2) Shape Descriptors https://share.google/aimode/9LTaYRi8xBBkkWdjE
+เดี๋ยวมาคุยกันว่าค่าเหล่านี้เหมาะสมมั้ย และน่าลอง AQUAMI
